@@ -1,0 +1,33 @@
+.cupcake-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: black; /* Main title in black */
+    text-align: center;
+    font-family: 'Brush Script MT', cursive; /* Match the decorative font */
+  }
+   
+  .cupcake-highlight {
+    color: #d63384; /* Pink color for 'The Cupcake Maker' */
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive; /* Match the decorative font */
+  }
+   
+  .cupcake-maker-container {
+    background-color: #ffe6e6; /* Light pink background */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+   
+  .cupcake-maker-container p {
+    font-size: 18px; /* Adjust the font size */
+    font-family: 'Georgia', serif; /* Match the font in your reference */
+    font-style: italic;
+    line-height: 1.6;
+    color: black; /* Keep the text black */
+    text-align: justify;
+    padding: 10px;
+    word-spacing: 2px;
+  }
